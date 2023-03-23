@@ -29,5 +29,19 @@ Employee employee2 = new CommissionEmployee()
 
 Console.WriteLine(employee2);
 
+Employee employee3 = new HourlyEmployee()
+{
+    Id = 3030,
+    FirstName = "Gonzalo",
+    LastName = "Cardona",
+    BirthDate = new Date(198, 5, 23),
+    HiringDate = new Date(2022,2,5),
+    IsActive = true,
+    HourValue = 12356.56M,
+    Hours = 123.5F
+};
+
+Console.WriteLine(employee3);
+
 
 
