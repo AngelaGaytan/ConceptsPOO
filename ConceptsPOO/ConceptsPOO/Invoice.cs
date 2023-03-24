@@ -26,7 +26,7 @@ namespace ConceptsPOO
             return $"{Id} - {Description}" +
                 $"\n\tQuantity.......: {$"{Quantity:N2}",18}" +
                 $"\n\tPrice..........: {$"{Price:C2}",18}" +
-                $"\n\tValue..........: {$"{GetValueToPay():C2}",18}";
+                $"\n\tValue...........: {$"{GetValueToPay():C2}",18}";
         }
     }
 }
