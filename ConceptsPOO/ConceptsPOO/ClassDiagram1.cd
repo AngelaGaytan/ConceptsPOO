@@ -13,6 +13,7 @@
       <HashCode>AAACAEAAAAAAAAAEEAAQAAQAAAAAAAAIAAAAAAAAAAg=</HashCode>
       <FileName>Employee.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConceptsPOO.SalaryEmployee" Collapsed="true">
     <Position X="5.75" Y="0.5" Width="1.5" />
@@ -38,9 +39,16 @@
   <Class Name="ConceptsPOO.BaseCommissionEmployee" Collapsed="true">
     <Position X="7.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAQAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAQAA=</HashCode>
       <FileName>BaseCommissionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Interface Name="ConceptsPOO.IPay">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IPay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
